@@ -6,4 +6,4 @@ Paquetes de packet tracer en [/Respuestas/PacketTracer/](/Respuestas/PacketTrace
 
 Explicación de packet tracer en [/Respuestas/PacketTracer/___Nombre De pkt Que Corresponde___.md](/Respuestas/PacketTracer/)
 
-Diagramas en [/Respuestas/Diagramas/](/Respuestas/Diagramas/)
+Diagramas en [/Diagramas/](/Diagramas/)
