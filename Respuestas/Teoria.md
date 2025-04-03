@@ -8,3 +8,5 @@ Los rituales refieren a dos protocolos de la capa de transporte: TCP y UDP. El m
 
 3. Pregunta: Descifra el enigma de la losa. Si la antigua red usaba la dirección 192.168.50.0 como base y necesitaba dividirse en 4 subredes de igual tamaño (una para cada gremio), ¿qué máscara de subred habrían utilizado los antiguos para lograrlo? ¿Cuántas direcciones de host (utilizables) tendría cada subred resultante? Explica brevemente tu razonamiento al calcular la máscara.
 
+La dirección 192.168.50.0 se puede dividir usando la máscara 192.168.50.0/26. La primera subred iría de 0-63, la segunda de 64-127, la tercera de 128-191, y la cuarta de 192-255. Cada red reserva la primera dirección y la última (ej. 0 y 63) para el router y broadcast, así que cada red puede tener 62 hosts.
+
