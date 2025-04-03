@@ -1,9 +1,13 @@
 https://github.com/LValdes2003/ExamenRedesDraft
+
 # Guía
+
 Respuestas a Parte 1 en [/Respuestas/Teoria.md](/Respuestas/Teoria.md)
 
-Paquetes de packet tracer en [/Respuestas/PacketTracer/](/Respuestas/PacketTracer/)
+Ejercicio 1 de Packet Tracer en [/Respuestas/PacketTracer/Ejercicio1_RutaDosReinos.pkt](/Respuestas/PacketTracer/Ejercicio1_RutaDosReinos.pkt)
+Documentación de Ejercicio 1 en [/Respuestas/PacketTracer/Ejercicio1_RutaDosReinos.md](/Respuestas/PacketTracer/Ejercicio1_RutaDosReinos.md)
 
-Explicación de packet tracer en [/Respuestas/PacketTracer/___Nombre De pkt Que Corresponde___.md](/Respuestas/PacketTracer/)
+Ejercicio 2 de Packet Tracer en [/Respuestas/PacketTracer/Ejercicio2_CiudadAislada.pkt](/Respuestas/PacketTracer/Ejercicio2_CiudadAislada.pkt)
+Documentación de Ejercicio 2 en [/Respuestas/PacketTracer/Ejercicio2_CiudadAislada.md](/Respuestas/PacketTracer/Ejercicio2_CiudadAislada.md)
 
-Diagramas en [/Diagramas/](/Diagramas/)
+Diagramas referidos desde [/Diagramas/](/Diagramas/)
