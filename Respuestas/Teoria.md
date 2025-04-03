@@ -10,3 +10,4 @@ Los rituales refieren a dos protocolos de la capa de transporte: TCP y UDP. El m
 
 La dirección 192.168.50.0 se puede dividir usando la máscara 192.168.50.0/26. La primera subred iría de 0-63, la segunda de 64-127, la tercera de 128-191, y la cuarta de 192-255. Cada red reserva la primera dirección y la última (ej. 0 y 63) para el router y broadcast, así que cada red puede tener 62 hosts.
 
+4. Pregunta: ¿Qué concepto moderno de redes representa el tótem con flechas de la encrucijada? Explica qué es una tabla de enrutamiento y cómo funciona en un router actual. Además, interpreta la diferencia entre las flechas talladas en piedra y las flechas móviles en términos de enrutamiento estático vs. enrutamiento dinámico en redes.
