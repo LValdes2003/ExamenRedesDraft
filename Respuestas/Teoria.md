@@ -17,3 +17,5 @@ El tótem representa un router, un dispositivo que dirige datos entre dos redes.
 5. Pregunta: ¿Qué técnica de redes moderna se refleja en la leyenda del Guardián de la Máscara? Nombra y describe brevemente este mecanismo, explicando cómo permite que múltiples dispositivos internos de una red compartan una única identidad (dirección) al comunicarse con el exterior, y menciona dos beneficios que brinda esta estrategia a las redes actuales.
 
 El guardián de la máscara representa NAT (Traducción de Direcciones de Red). Específicamente representa un tipo de NAT dinámico, donde todas las direcciones IP privadas corresponden a solo una dirección IP pública. NAT se usa desde el router, donde los paquetes de cada dispositivo salen de diferentes puertos en el router. De esta manera, al recibir cualquier respuesta al mismo puerto, el router sabe para quien en la red privada es el paquete. Esto significa que no hay que comprar múltiples direcciones de IP públicas, y ofrece un nivel de privacidad, porque dispositivos fuera de la red no saben las dirrecciones IP de los dispositivos dentro de la red.
+
+![Figura 1](/Diagramas/Figura1.png)
