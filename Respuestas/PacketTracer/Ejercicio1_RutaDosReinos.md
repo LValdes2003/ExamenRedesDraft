@@ -1,3 +1,9 @@
+# Topología
+
+![Figura 3](/Diagramas/Figura3.png)
+
+# Explicación
+
 ### Routers
 
 Router llamado Ciudad1 modelo 2911 configurado con ip 10.0.0.1 255.255.255.0 para interface GigabitEthernet0/0 conectado a un switch usando comandos:
