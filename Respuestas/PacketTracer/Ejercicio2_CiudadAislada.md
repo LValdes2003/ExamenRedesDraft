@@ -1,3 +1,7 @@
+# Topología
+
+![Figura 4](/Diagramas/Figura4.png)
+
 ### VLANs
 
 Hay 3 VLANs, VLAN 10 con nombre Arquitectos, VLAN 20 con nombre Politicos y VLAN 30 con nombre Escribas. Cada VLAN tiene dos PCs conectados a dos switches.
